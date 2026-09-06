@@ -11,7 +11,21 @@ async function loadAndStoreCourses() {
     const bundled = await response.json();
 
     const { userCourses } = await chrome.storage.local.get("userCourses");
-    const merged = Object.assign({}, bundled, userCourses || {});
+    const user = userCourses || {};
+    const merged = { ...bundled };
+
+    for (const code in user) {
+      const uVal = user[code];
+      // Default shape for brand new custom courses not in courses.json
+      const bVal = merged[code] || { examDay: "", examSlot: "", prerequisites: [] };
+      
+      if (uVal && typeof uVal === "object") {
+        merged[code] = { ...bVal, ...uVal };
+      } else {
+        merged[code] = { ...bVal, name: uVal };
+      }
+    }
+
     await chrome.storage.local.set({ courses: merged });
   } catch (err) {
     console.error("[CourseDecoder] Failed to load courses.json:", err);

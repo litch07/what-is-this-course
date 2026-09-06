@@ -1,311 +1,2071 @@
 {
-  "ACT 2111": "Financial and Managerial Accounting",
-  "ACT 3101": "Financial and Managerial Accounting",
-  "AIS 1201": "Principles of Accounting",
-  "AIS 1302": "Intermediate Accounting",
-  "AIS 2204": "Advanced Accounting I",
-  "AIS 2305": "Theory & Practice of Taxation",
-  "AIS 2306": "Principles of Auditing",
-  "AIS 3107": "Advanced Accounting II",
-  "AIS 3208": "Cost Accounting",
-  "AIS 3209": "Tax Accounting and Tax Planning",
-  "AIS 3310": "Accounting Information Systems",
-  "AIS 4103": "Management Accounting I",
-  "AIS 4208": "Advanced Accounting III",
-  "AIS 4301": "Management Accounting-II",
-  "AIS 4302": "Management Audit and Auditing Standards",
-  "AIS 4303": "Corporate Financial Reporting",
-  "AIS 4346": "Corporate Governance",
-  "AIS 4350": "Sustainability Accounting: Theory and Practice",
-  "AIS 4352": "Human Resource Accounting",
-  "AIS 4353": "Management Audit & Audit Analytics",
-  "AIS 4441": "Internship/Project",
-  "BAN 2501": "Bangla",
-  "BDS 1201": "History of the Emergence of Bangladesh",
-  "BDS 2201": "Bangladesh Studies",
-  "BHV 2101": "Introduction to Behavioral Science",
-  "BIO 3105": "Biology for Engineers",
-  "BIO 3107": "Biology",
-  "BNG 1102": "Bangla Language and Literature",
-  "BUS 1102": "Introduction to Business",
-  "BUS 2112": "Business Communication",
-  "BUS 3339": "Business Research Methodology",
-  "BUS 4201": "Employability and Entrepreneurial Success",
-  "CHE 2101": "Chemistry",
-  "CHE 2102": "Chemistry Laboratory",
-  "CSE 1110": "Introduction to Computer Systems",
-  "CSE 1111": "Structured Programming Language",
-  "CSE 1112": "Structured Programming Language Laboratory",
-  "CSE 1115": "Object Oriented Programming",
-  "CSE 1116": "Object Oriented Programming Laboratory",
-  "CSE 1325": "Digital Logic Design",
-  "CSE 1326": "Digital Logic Design Laboratory",
-  "CSE 2118": "Advanced Object Oriented Programming Laboratory",
-  "CSE 2213": "Discrete Mathematics",
-  "CSE 2215": "Data Structure and Algorithms I",
-  "CSE 2216": "Data Structure and Algorithms I Laboratory",
-  "CSE 2217": "Data Structure and Algorithms II",
-  "CSE 2218": "Data Structure and Algorithms II Laboratory",
-  "CSE 2233": "Theory of Computation",
-  "CSE 3313": "Computer Architecture",
-  "CSE 3411": "System Analysis and Design",
-  "CSE 3412": "System Analysis and Design Laboratory",
-  "CSE 3421": "Software Engineering",
-  "CSE 3422": "Software Engineering Laboratory",
-  "CSE 3521": "Database Management Systems",
-  "CSE 3522": "Database Management Systems Laboratory",
-  "CSE 3711": "Computer Networks",
-  "CSE 3712": "Computer Networks Laboratory",
-  "CSE 3715": "Data Communication",
-  "CSE 3811": "Artificial Intelligence",
-  "CSE 3812": "Artificial Intelligence Laboratory",
-  "CSE 4000A": "Final Year Design Project - I",
-  "CSE 4000B": "Final Year Design Project - II",
-  "CSE 4000C": "Final Year Design Project - III",
-  "CSE 4165": "Web Programming",
-  "CSE 4181": "Mobile Application Development",
-  "CSE 4197": "Introduction to Internet of Things (IoT)",
-  "CSE 4325": "Microprocessors and Microcontrollers",
-  "CSE 4326": "Microprocessors and Microcontrollers Laboratory",
-  "CSE 4327": "VLSI Design",
-  "CSE 4337": "Robotics",
-  "CSE 4379": "Real-time Embedded Systems",
-  "CSE 4435": "Software Architecture",
-  "CSE 4451": "Human Computer Interaction",
-  "CSE 4495": "Software Testing and Quality Assurance",
-  "CSE 4509": "Operating Systems",
-  "CSE 4510": "Operating Systems Laboratory",
-  "CSE 4511": "Operating Systems and Scripting",
-  "CSE 4531": "Computer Security",
-  "CSE 4587": "Cloud Computing",
-  "CSE 4611": "Compiler Design",
-  "CSE 4621": "Computer Graphics",
-  "CSE 4777": "Networks Security",
-  "CSE 4783": "Cryptography",
-  "CSE 4817": "Big Data Analytics",
-  "CSE 4883": "Digital Image Processing",
-  "CSE 4889": "Machine Learning",
-  "CSE 4891": "Data Mining",
-  "CSE 4893": "Introduction to Bioinformatics",
-  "CSE 4945": "UI: Concepts and Design",
-  "CST 1303": "Computer Application in Business",
-  "CST 2321": "Business Analytics",
-  "DS 1101": "Fundamentals of Data Science",
-  "DS 1115": "Object Oriented Programming for Data Science",
-  "DS 1116": "Object Oriented Programming Laboratory for Data Science",
-  "DS 1501": "Programming for Data Science",
-  "DS 1502": "Programming for Data Science Laboratory",
-  "DS 2251": "Bayesian Statistics",
-  "DS 3101": "Advanced Probability and Statistics",
-  "DS 3120": "Technical Report Writing and Presentation",
-  "DS 3521": "Data Visualization",
-  "DS 3522": "Data Visualization Laboratory",
-  "DS 3881": "Regression and Multivariate Analysis",
-  "DS 3885": "Data Wrangling",
-  "DS 4000A": "Capstone Project - I",
-  "DS 4000B": "Capstone Project - II",
-  "DS 4000C": "Capstone Project - III",
-  "DS 4111": "Genomic Data Analysis",
-  "DS 4113": "Spatial Analytics",
-  "DS 4115": "Marketing Analytics",
-  "DS 4117": "Computational Finance",
-  "DS 4119": "Health Informatics",
-  "DS 4121": "Introduction to Actuarial Science",
-  "DS 4123": "Human Computer Interaction",
-  "DS 4125": "Medical Image and Signal Processing",
-  "DS 4127": "Computational Epidemiology",
-  "DS 4129": "Remote Sensing of Environment",
-  "DS 4131": "Precision Agriculture",
-  "DS 4211": "Deep Learning",
-  "DS 4213": "Natural Language Processing",
-  "DS 4215": "Social Media Analytics",
-  "DS 4217": "Data Privacy and Ethics",
-  "DS 4219": "Game Theory",
-  "DS 4221": "Complex Systems",
-  "DS 4223": "Recommender Systems",
-  "DS 4225": "Probabilistic Graphical Models",
-  "DS 4227": "Mathematical Optimization",
-  "DS 4229": "Data Warehousing",
-  "DS 4491": "Machine Learning Systems Design",
-  "DS 4523": "Simulation and Modeling",
-  "DS 4817": "Big Data",
-  "DS 4821": "Generative Machine Learning",
-  "DS 4823": "Reinforcement Learning",
-  "DS 4825": "Deep Learning for Computer Vision",
-  "DS 4889": "Machine Learning",
-  "DS 4891": "Data Analytics",
-  "DS 4892": "Data Analytics Laboratory",
-  "DS 4921": "Special Topic - I",
-  "DS 4923": "Special Topic - II",
-  "ECN 2111": "Micro Economics",
-  "ECN 2214": "Macro Economics",
-  "ECO 2101": "Economics",
-  "ECO 4101": "Economics",
-  "EEE 1001": "Electrical Circuits I",
-  "EEE 1003": "Electrical Circuits II",
-  "EEE 1004": "Electrical Circuits Laboratory",
-  "EEE 2000": "Simulation Laboratory",
-  "EEE 2101": "Electronics I",
-  "EEE 2103": "Electronics II",
-  "EEE 2104": "Electronics Laboratory",
-  "EEE 2105": "Digital Electronics",
-  "EEE 2106": "Digital Electronics Laboratory",
-  "EEE 2113": "Electrical Circuits",
-  "EEE 2123": "Electronics",
-  "EEE 2124": "Electronics Laboratory",
-  "EEE 2200": "Electrical Wiring and Drafting",
-  "EEE 2201": "Energy Conversion I",
-  "EEE 2203": "Energy Conversion II",
-  "EEE 2204": "Energy Conversion Laboratory",
-  "EEE 2301": "Signals and Linear Systems",
-  "EEE 2401": "Structured Programming Language",
-  "EEE 2402": "Structured Programming Language Laboratory",
-  "EEE 3107": "Electrical Properties of Materials",
-  "EEE 3205": "Power System",
-  "EEE 3206": "Power System Laboratory",
-  "EEE 3207": "Power Electronics",
-  "EEE 3208": "Power Electronics Laboratory",
-  "EEE 3303": "Probability, Statistics and Random Variables",
-  "EEE 3305": "Engineering Electromagnetics",
-  "EEE 3307": "Communication Theory",
-  "EEE 3308": "Communication Laboratory",
-  "EEE 3309": "Digital Signal Processing",
-  "EEE 3310": "Digital Signal Processing Laboratory",
-  "EEE 3400": "Numerical Techniques Laboratory",
-  "EEE 3403": "Microprocessor and Interfacing",
-  "EEE 3404": "Microprocessor and Interfacing Laboratory",
-  "EEE 4109": "Control System",
-  "EEE 4110": "Control System Laboratory",
-  "EEE 4111": "Solid State Devices",
-  "EEE 4113": "Semiconductor Processing and Fabrication Technology",
-  "EEE 4115": "Optoelectronics",
-  "EEE 4117": "Analog Integrated Circuits",
-  "EEE 4119": "Compound Semiconductor Devices",
-  "EEE 4121": "VLSI Design",
-  "EEE 4122": "VLSI Design Laboratory",
-  "EEE 4123": "Biomedical Electronics",
-  "EEE 4124": "Biomedical Electronics Laboratory",
-  "EEE 4211": "Transmission and Distribution Systems",
-  "EEE 4213": "Power Plant Engineering",
-  "EEE 4215": "Operation and Control of Power System",
-  "EEE 4216": "Operation and Control of Power System Laboratory",
-  "EEE 4217": "Power System Protection",
-  "EEE 4218": "Power System Protection Laboratory",
-  "EEE 4219": "High Voltage Engineering",
-  "EEE 4221": "Advanced Electrical Machines",
-  "EEE 4223": "Renewable Energy",
-  "EEE 4225": "Electrical Measurements",
-  "EEE 4226": "Electrical Measurements Laboratory",
-  "EEE 4261": "Green Computing",
-  "EEE 4311": "Microwave Engineering",
-  "EEE 4312": "Microwave Engineering Laboratory",
-  "EEE 4313": "Optical Fiber Communication",
-  "EEE 4315": "Digital Communication",
-  "EEE 4316": "Digital Communication Laboratory",
-  "EEE 4317": "Mobile Cellular Communication",
-  "EEE 4319": "Telecommunication Engineering",
-  "EEE 4321": "Antenna and Propagation",
-  "EEE 4323": "Satellite Communication",
-  "EEE 4325": "Multimedia Communication",
-  "EEE 4327": "Advanced DSP and Filter Design",
-  "EEE 4329": "Telecommunication Policy and Management",
-  "EEE 4331": "Biomedical Engineering",
-  "EEE 4333": "Special Topics on Telecommunication Engineering",
-  "EEE 4335": "Information Theory and Coding",
-  "EEE 4337": "RF Engineering",
-  "EEE 4338": "RF Engineering Laboratory",
-  "EEE 4339": "Introduction to Software Radios",
-  "EEE 4411": "Computer Architecture",
-  "EEE 4413": "Computer Networks",
-  "EEE 4414": "Computer Networks Laboratory",
-  "EEE 4415": "Advanced Logic Design",
-  "EEE 4417": "Microprocessor Based System Design",
-  "EEE 4418": "Microprocessor Based System Design Laboratory",
-  "EEE 4419": "Multimedia Systems Design",
-  "EEE 4511": "Embedded System Design and Architecture",
-  "EEE 4512": "Embedded System Design and Architecture Laboratory",
-  "EEE 4513": "Real Time Embedded System Design",
-  "EEE 4515": "Industrial Automation and Robotics",
-  "EEE 4517": "Real Time Embedded Digital Signal Processing",
-  "EEE 4901": "Capstone Project I",
-  "EEE 4902": "Capstone Project II",
-  "EEE 4903": "Capstone Project III",
-  "EEE 4904": "Internship",
-  "EEE 4905": "Industrial Training",
-  "ENG 1011": "English I",
-  "ENG 1013": "English II",
-  "FIN 2319": "Principles of Finance",
-  "FIN 3123": "Managerial Finance",
-  "FIN 3337": "Principles of Banking and Insurance",
-  "FIN 4116": "Management of Financial Institutions",
-  "FIN 4117": "Corporate Finance",
-  "FIN 4218": "Financial Statements Analysis",
-  "FIN 4219": "Securities Analysis and Portfolio Management",
-  "FIN 4320": "Capital Investment Decisions",
-  "FIN 4321": "Financial Markets and Institutions",
-  "FIN 4322": "International Financial Management",
-  "FIN 4323": "Working Capital Management",
-  "FIN 4324": "Real Estate Finance",
-  "FIN 4325": "Investment Banking and Lease Finance",
-  "FIN 4326": "Development Finance",
-  "FIN 4327": "Monetary Economics",
-  "FIN 4328": "Public Finance",
-  "FIN 4329": "Financial Derivatives",
-  "FIN 4330": "Cases in Finance",
-  "FIN 4331": "Financial Modeling",
-  "FIN 4332": "Financial Technology (FinTech)",
-  "FIN 4333": "Financial Analytics",
-  "FIN 4334": "Bank Fund Management",
-  "FIN 4335": "Financial Risk Management",
-  "FIN 4336": "Entrepreneurial Finance and Venture Capital",
-  "FIN 4337": "Financial Trading Strategies",
-  "FLN 1101": "Introduction to a Foreign Language (Name of the Language)",
-  "GED 4000": "Entrepreneurship and Career",
-  "IBS 3121": "International Business",
-  "IPE 3401": "Industrial and Operational Management",
-  "IPE 4101": "Industrial Production Engineering",
-  "LAW 2106": "Commercial & Industrial Laws",
-  "LAW 3328": "Corporate Law & Secretarial Practice",
-  "MAT 1101": "Calculus I",
-  "MAT 1103": "Calculus II",
-  "MAT 2105": "Linear Algebra and Differential Equations",
-  "MAT 2107": "Complex Variables, Fourier and Laplace Transforms",
-  "MAT 2109": "Coordinate Geometry and Vector Analysis",
-  "MATH 1151": "Fundamental Calculus",
-  "MATH 1153": "Advanced Calculus",
-  "MATH 2107": "Linear Algebra",
-  "MATH 2183": "Calculus and Linear Algebra",
-  "MATH 2201": "Coordinate Geometry and Vector Analysis",
-  "MATH 2205": "Probability and Statistics",
-  "MGT 1307": "Principles of Management",
-  "MGT 2208": "Human Resource Mgt. & Org. Behavior",
-  "MGT 3225": "E-Business",
-  "MGT 4132": "Operations Management",
-  "MGT 4356": "Strategic Management",
-  "MIS 2218": "Advanced Computer Applications in Business",
-  "MIS 2220": "Fundamentals of Management Information Systems",
-  "MIS 3124": "Database Management",
-  "MIS 3231": "Programming Language Foundations",
-  "MKT 2320": "Introduction to Marketing",
-  "MKT 4313": "Digital Marketing",
-  "PHY 1101": "Physics I",
-  "PHY 1103": "Physics II",
-  "PHY 1104": "Physics Laboratory",
-  "PHY 2105": "Physics",
-  "PHY 2106": "Physics Laboratory",
-  "PMG 4101": "Project Management",
-  "PSY 2101": "Psychology",
-  "QNT 1104": "Basic Mathematics",
-  "QNT 1202": "Basic Statistics",
-  "QNT 2105": "Mathematics for Business Decision",
-  "QNT 3307": "Applied Business Statistics",
-  "SOC 1105": "Sociology and Psychology",
-  "SOC 2101": "Society, Environment and Engineering Ethics",
-  "SOC 2102": "Society, Environment and Computing Ethics",
-  "SOC 3101": "Society, Environment and Engineering Ethics",
-  "SOC 4101": "Introduction to Sociology",
-  "SOC 4301": "Introduction to Anthropology",
-  "SWL 4101": "Software and Law",
-  "TEC 2499": "Technology Entrepreneurship",
-  "URC 1101": "Life Skills for Success"
+  "ACT 2111": {
+    "name": "Financial and Managerial Accounting",
+    "examDay": "Day 2",
+    "examSlot": "T3",
+    "prerequisites": []
+  },
+  "ACT 3101": {
+    "name": "Financial and Managerial Accounting",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 1201": {
+    "name": "Principles of Accounting",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 1302": {
+    "name": "Intermediate Accounting",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 2204": {
+    "name": "Advanced Accounting I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 2305": {
+    "name": "Theory & Practice of Taxation",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 2306": {
+    "name": "Principles of Auditing",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 3107": {
+    "name": "Advanced Accounting II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 3208": {
+    "name": "Cost Accounting",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 3209": {
+    "name": "Tax Accounting and Tax Planning",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 3310": {
+    "name": "Accounting Information Systems",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4103": {
+    "name": "Management Accounting I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4208": {
+    "name": "Advanced Accounting III",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4301": {
+    "name": "Management Accounting-II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4302": {
+    "name": "Management Audit and Auditing Standards",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4303": {
+    "name": "Corporate Financial Reporting",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4346": {
+    "name": "Corporate Governance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4350": {
+    "name": "Sustainability Accounting: Theory and Practice",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4352": {
+    "name": "Human Resource Accounting",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4353": {
+    "name": "Management Audit & Audit Analytics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "AIS 4441": {
+    "name": "Internship/Project",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "BAN 2501": {
+    "name": "Bangla",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "BDS 1201": {
+    "name": "History of the Emergence of Bangladesh",
+    "examDay": "Day 6",
+    "examSlot": "T1",
+    "prerequisites": []
+  },
+  "BDS 2201": {
+    "name": "Bangladesh Studies",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "BHV 2101": {
+    "name": "Introduction to Behavioral Science",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "BIO 3105": {
+    "name": "Biology for Engineers",
+    "examDay": "Day 3",
+    "examSlot": "T3",
+    "prerequisites": []
+  },
+  "BIO 3107": {
+    "name": "Biology",
+    "examDay": "Day 3",
+    "examSlot": "T3",
+    "prerequisites": []
+  },
+  "BNG 1102": {
+    "name": "Bangla Language and Literature",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "BUS 1102": {
+    "name": "Introduction to Business",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "BUS 2112": {
+    "name": "Business Communication",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "BUS 3339": {
+    "name": "Business Research Methodology",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "BUS 4201": {
+    "name": "Employability and Entrepreneurial Success",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CHE 2101": {
+    "name": "Chemistry",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CHE 2102": {
+    "name": "Chemistry Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 1110": {
+    "name": "Introduction to Computer Systems",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 1111": {
+    "name": "Structured Programming Language",
+    "examDay": "Day 4",
+    "examSlot": "T2",
+    "prerequisites": [
+      "CSE 1110"
+    ]
+  },
+  "CSE 1112": {
+    "name": "Structured Programming Language Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 1110"
+    ]
+  },
+  "CSE 1115": {
+    "name": "Object Oriented Programming",
+    "examDay": "Day 6",
+    "examSlot": "T2",
+    "prerequisites": [
+      "CSE 2215"
+    ]
+  },
+  "CSE 1116": {
+    "name": "Object Oriented Programming Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 2216"
+    ]
+  },
+  "CSE 1325": {
+    "name": "Digital Logic Design",
+    "examDay": "Day 3",
+    "examSlot": "T3",
+    "prerequisites": []
+  },
+  "CSE 1326": {
+    "name": "Digital Logic Design Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 2118": {
+    "name": "Advanced Object Oriented Programming Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 1116"
+    ]
+  },
+  "CSE 2213": {
+    "name": "Discrete Mathematics",
+    "examDay": "Day 3",
+    "examSlot": "T2",
+    "prerequisites": []
+  },
+  "CSE 2215": {
+    "name": "Data Structure and Algorithms I",
+    "examDay": "Day 4",
+    "examSlot": "T2",
+    "prerequisites": [
+      "DS 1115",
+      "DS 1116"
+    ]
+  },
+  "CSE 2216": {
+    "name": "Data Structure and Algorithms I Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "DS 1115",
+      "DS 1116"
+    ]
+  },
+  "CSE 2217": {
+    "name": "Data Structure and Algorithms II",
+    "examDay": "Day 5",
+    "examSlot": "T2",
+    "prerequisites": [
+      "CSE 2215",
+      "CSE 2216"
+    ]
+  },
+  "CSE 2218": {
+    "name": "Data Structure and Algorithms II Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 2215",
+      "CSE 2216"
+    ]
+  },
+  "CSE 2233": {
+    "name": "Theory of Computation",
+    "examDay": "Day 7",
+    "examSlot": "T2",
+    "prerequisites": []
+  },
+  "CSE 3313": {
+    "name": "Computer Architecture",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 1325"
+    ]
+  },
+  "CSE 3411": {
+    "name": "System Analysis and Design",
+    "examDay": "Day 5",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 3521"
+    ]
+  },
+  "CSE 3412": {
+    "name": "System Analysis and Design Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 3522"
+    ]
+  },
+  "CSE 3421": {
+    "name": "Software Engineering",
+    "examDay": "Day 5",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 3411"
+    ]
+  },
+  "CSE 3422": {
+    "name": "Software Engineering Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 3412"
+    ]
+  },
+  "CSE 3521": {
+    "name": "Database Management Systems",
+    "examDay": "Day 2",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 2215"
+    ]
+  },
+  "CSE 3522": {
+    "name": "Database Management Systems Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 2216"
+    ]
+  },
+  "CSE 3711": {
+    "name": "Computer Networks",
+    "examDay": "Day 4",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 2217"
+    ]
+  },
+  "CSE 3712": {
+    "name": "Computer Networks Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 3715": {
+    "name": "Data Communication",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 3811": {
+    "name": "Artificial Intelligence",
+    "examDay": "Day 3",
+    "examSlot": "T1",
+    "prerequisites": [
+      "MATH 2205",
+      "CSE 2217"
+    ]
+  },
+  "CSE 3812": {
+    "name": "Artificial Intelligence Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "MATH 2205",
+      "CSE 2218"
+    ]
+  },
+  "CSE 4000A": {
+    "name": "Final Year Design Project - I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "MINIMUM 85 credits"
+    ]
+  },
+  "CSE 4000B": {
+    "name": "Final Year Design Project - II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 4000A"
+    ]
+  },
+  "CSE 4000C": {
+    "name": "Final Year Design Project - III",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 4000A",
+      "CSE 4000B"
+    ]
+  },
+  "CSE 4125": {
+    "name": "Ethical Hacking and Network Defense",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 4531"
+    ]
+  },
+  "CSE 4133": {
+    "name": "Business Intelligence",
+    "examDay": "Day 6",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 3411"
+    ]
+  },
+  "CSE 4165": {
+    "name": "Web Programming",
+    "examDay": "Day 7",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 1115",
+      "CSE 1116"
+    ]
+  },
+  "CSE 4181": {
+    "name": "Mobile Application Development",
+    "examDay": "Day 6",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 4165"
+    ]
+  },
+  "CSE 4197": {
+    "name": "Introduction to Internet of Things (IoT)",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 4325": {
+    "name": "Microprocessors and Microcontrollers",
+    "examDay": "Day 2",
+    "examSlot": "T2",
+    "prerequisites": [
+      "CSE 3313"
+    ]
+  },
+  "CSE 4326": {
+    "name": "Microprocessors and Microcontrollers Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "EEE 2124"
+    ]
+  },
+  "CSE 4327": {
+    "name": "VLSI Design",
+    "examDay": "Day 4",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 4327"
+    ]
+  },
+  "CSE 4337": {
+    "name": "Robotics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 4379": {
+    "name": "Real-time Embedded Systems",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 4399": {
+    "name": "Embedded Machine Learning",
+    "examDay": "Day 7",
+    "examSlot": "T2",
+    "prerequisites": [
+      "CSE 1111",
+      "CSE 4325"
+    ]
+  },
+  "CSE 4435": {
+    "name": "Software Architecture",
+    "examDay": "Day 4",
+    "examSlot": "T2",
+    "prerequisites": []
+  },
+  "CSE 4451": {
+    "name": "Human Computer Interaction",
+    "examDay": "Day 3",
+    "examSlot": "T1",
+    "prerequisites": [
+      "MINIMUM COMPLETED CREDIT 70"
+    ]
+  },
+  "CSE 4495": {
+    "name": "Software Testing and Quality Assurance",
+    "examDay": "Day 7",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 3421"
+    ]
+  },
+  "CSE 4509": {
+    "name": "Operating Systems",
+    "examDay": "Day 1",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 2217",
+      "CSE 3313"
+    ]
+  },
+  "CSE 4510": {
+    "name": "Operating Systems Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "CSE 2218"
+    ]
+  },
+  "CSE 4511": {
+    "name": "Operating Systems and Scripting",
+    "examDay": "Day 5",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 2217"
+    ]
+  },
+  "CSE 4531": {
+    "name": "Computer Security",
+    "examDay": "Day 6",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 3711",
+      "CSE 4509"
+    ]
+  },
+  "CSE 4587": {
+    "name": "Cloud Computing",
+    "examDay": "Day 5",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 4511"
+    ]
+  },
+  "CSE 4611": {
+    "name": "Compiler Design",
+    "examDay": "Day 4",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 2233"
+    ]
+  },
+  "CSE 4621": {
+    "name": "Computer Graphics",
+    "examDay": "Day 2",
+    "examSlot": "T1",
+    "prerequisites": [
+      "MATH 2201",
+      "MATH 2183"
+    ]
+  },
+  "CSE 4777": {
+    "name": "Networks Security",
+    "examDay": "Day 3",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 4531"
+    ]
+  },
+  "CSE 4783": {
+    "name": "Cryptography",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CSE 4811": {
+    "name": "Natural Language Processing",
+    "examDay": "Day 4",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 4889"
+    ]
+  },
+  "CSE 4813": {
+    "name": "Deep Learning",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 4889"
+    ]
+  },
+  "CSE 4817": {
+    "name": "Big Data Analytics",
+    "examDay": "Day 5",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 4889"
+    ]
+  },
+  "CSE 4883": {
+    "name": "Digital Image Processing",
+    "examDay": "Day 4",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 4889"
+    ]
+  },
+  "CSE 4889": {
+    "name": "Machine Learning",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 3811",
+      "CSE 3812",
+      "MATH 2183"
+    ]
+  },
+  "CSE 4891": {
+    "name": "Data Mining",
+    "examDay": "Day 7",
+    "examSlot": "T1",
+    "prerequisites": [
+      "CSE 4889"
+    ]
+  },
+  "CSE 4893": {
+    "name": "Introduction to Bioinformatics",
+    "examDay": "Day 4",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 4889"
+    ]
+  },
+  "CSE 4945": {
+    "name": "UI: Concepts and Design",
+    "examDay": "Day 1",
+    "examSlot": "T2",
+    "prerequisites": []
+  },
+  "CST 1303": {
+    "name": "Computer Application in Business",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "CST 2321": {
+    "name": "Business Analytics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 1101": {
+    "name": "Fundamentals of Data Science",
+    "examDay": "Day 5",
+    "examSlot": "T2",
+    "prerequisites": [
+      "DS 1115",
+      "DS 1116"
+    ]
+  },
+  "DS 1115": {
+    "name": "Object Oriented Programming for Data Science",
+    "examDay": "Day 6",
+    "examSlot": "T2",
+    "prerequisites": [
+      "DS 1501",
+      "DS 1502"
+    ]
+  },
+  "DS 1116": {
+    "name": "Object Oriented Programming Laboratory for Data Science",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "DS 1501",
+      "DS 1502"
+    ]
+  },
+  "DS 1501": {
+    "name": "Programming for Data Science",
+    "examDay": "Day 4",
+    "examSlot": "T2",
+    "prerequisites": []
+  },
+  "DS 1502": {
+    "name": "Programming for Data Science Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 2251": {
+    "name": "Bayesian Statistics",
+    "examDay": "Day 4",
+    "examSlot": "T2",
+    "prerequisites": [
+      "DS 1101",
+      "MATH 1151"
+    ]
+  },
+  "DS 3101": {
+    "name": "Advanced Probability and Statistics",
+    "examDay": "Day 4",
+    "examSlot": "T3",
+    "prerequisites": [
+      "MATH 2205",
+      "MATH 2107"
+    ]
+  },
+  "DS 3120": {
+    "name": "Technical Report Writing and Presentation",
+    "examDay": "Day 5",
+    "examSlot": "T3",
+    "prerequisites": [
+      "MINIMUM COMPLETED CREDIT 55"
+    ]
+  },
+  "DS 3521": {
+    "name": "Data Visualization",
+    "examDay": "Day 6",
+    "examSlot": "T1",
+    "prerequisites": [
+      "DS 3885"
+    ]
+  },
+  "DS 3522": {
+    "name": "Data Visualization Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "DS 3885"
+    ]
+  },
+  "DS 3881": {
+    "name": "Regression and Multivariate Analysis",
+    "examDay": "Day 7",
+    "examSlot": "T3",
+    "prerequisites": [
+      "DS 1101",
+      "MATH 1151"
+    ]
+  },
+  "DS 3885": {
+    "name": "Data Wrangling",
+    "examDay": "Day 1",
+    "examSlot": "T2",
+    "prerequisites": [
+      "DS 1101"
+    ]
+  },
+  "DS 4000A": {
+    "name": "Capstone Project - I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "MINIMUM COMPLETED CREDIT 85"
+    ]
+  },
+  "DS 4000B": {
+    "name": "Capstone Project - II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4000C": {
+    "name": "Capstone Project - III",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4111": {
+    "name": "Genomic Data Analysis",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4113": {
+    "name": "Spatial Analytics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4115": {
+    "name": "Marketing Analytics",
+    "examDay": "Day 7",
+    "examSlot": "T1",
+    "prerequisites": [
+      "DS 4891"
+    ]
+  },
+  "DS 4117": {
+    "name": "Computational Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4119": {
+    "name": "Health Informatics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4121": {
+    "name": "Introduction to Actuarial Science",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4123": {
+    "name": "Human Computer Interaction",
+    "examDay": "Day 3",
+    "examSlot": "T1",
+    "prerequisites": [
+      "MINIMUM COMPLETED CREDIT 70"
+    ]
+  },
+  "DS 4125": {
+    "name": "Medical Image and Signal Processing",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4127": {
+    "name": "Computational Epidemiology",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4129": {
+    "name": "Remote Sensing of Environment",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4131": {
+    "name": "Precision Agriculture",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4211": {
+    "name": "Deep Learning",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": [
+      "DS 4889"
+    ]
+  },
+  "DS 4213": {
+    "name": "Natural Language Processing",
+    "examDay": "Day 4",
+    "examSlot": "T1",
+    "prerequisites": [
+      "DS 4889"
+    ]
+  },
+  "DS 4215": {
+    "name": "Social Media Analytics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4217": {
+    "name": "Data Privacy and Ethics",
+    "examDay": "Day 1",
+    "examSlot": "T2",
+    "prerequisites": [
+      "DS 3885"
+    ]
+  },
+  "DS 4219": {
+    "name": "Game Theory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4221": {
+    "name": "Complex Systems",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4223": {
+    "name": "Recommender Systems",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4225": {
+    "name": "Probabilistic Graphical Models",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4227": {
+    "name": "Mathematical Optimization",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4229": {
+    "name": "Data Warehousing",
+    "examDay": "Day 7",
+    "examSlot": "T2",
+    "prerequisites": [
+      "CSE 3521"
+    ]
+  },
+  "DS 4491": {
+    "name": "Machine Learning Systems Design",
+    "examDay": "Day 1",
+    "examSlot": "T1",
+    "prerequisites": [
+      "DS 4889"
+    ]
+  },
+  "DS 4523": {
+    "name": "Simulation and Modeling",
+    "examDay": "Day 4",
+    "examSlot": "T3",
+    "prerequisites": [
+      "MATH 2107",
+      "MATH 2205"
+    ]
+  },
+  "DS 4817": {
+    "name": "Big Data",
+    "examDay": "Day 5",
+    "examSlot": "T3",
+    "prerequisites": [
+      "CSE 3521"
+    ]
+  },
+  "DS 4821": {
+    "name": "Generative Machine Learning",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4823": {
+    "name": "Reinforcement Learning",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4825": {
+    "name": "Deep Learning for Computer Vision",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4889": {
+    "name": "Machine Learning",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": [
+      "MATH 1151",
+      "MATH 2107",
+      "MATH 2205"
+    ]
+  },
+  "DS 4891": {
+    "name": "Data Analytics",
+    "examDay": "Day 7",
+    "examSlot": "T1",
+    "prerequisites": [
+      "DS 3885"
+    ]
+  },
+  "DS 4892": {
+    "name": "Data Analytics Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": [
+      "DS 3885"
+    ]
+  },
+  "DS 4921": {
+    "name": "Special Topic - I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "DS 4923": {
+    "name": "Special Topic - II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "ECN 2111": {
+    "name": "Micro Economics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "ECN 2214": {
+    "name": "Macro Economics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "ECO 2101": {
+    "name": "Economics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "ECO 4101": {
+    "name": "Economics",
+    "examDay": "Day 6",
+    "examSlot": "T1",
+    "prerequisites": []
+  },
+  "EEE 1001": {
+    "name": "Electrical Circuits I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 1003": {
+    "name": "Electrical Circuits II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 1004": {
+    "name": "Electrical Circuits Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2000": {
+    "name": "Simulation Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2101": {
+    "name": "Electronics I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2103": {
+    "name": "Electronics II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2104": {
+    "name": "Electronics Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2105": {
+    "name": "Digital Electronics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2106": {
+    "name": "Digital Electronics Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2113": {
+    "name": "Electrical Circuits",
+    "examDay": "Day 6",
+    "examSlot": "T3",
+    "prerequisites": []
+  },
+  "EEE 2123": {
+    "name": "Electronics",
+    "examDay": "Day 6",
+    "examSlot": "T3",
+    "prerequisites": [
+      "EEE 2113"
+    ]
+  },
+  "EEE 2124": {
+    "name": "Electronics Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2200": {
+    "name": "Electrical Wiring and Drafting",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2201": {
+    "name": "Energy Conversion I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2203": {
+    "name": "Energy Conversion II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2204": {
+    "name": "Energy Conversion Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2301": {
+    "name": "Signals and Linear Systems",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2401": {
+    "name": "Structured Programming Language",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 2402": {
+    "name": "Structured Programming Language Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3107": {
+    "name": "Electrical Properties of Materials",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3205": {
+    "name": "Power System",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3206": {
+    "name": "Power System Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3207": {
+    "name": "Power Electronics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3208": {
+    "name": "Power Electronics Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3303": {
+    "name": "Probability, Statistics and Random Variables",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3305": {
+    "name": "Engineering Electromagnetics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3307": {
+    "name": "Communication Theory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3308": {
+    "name": "Communication Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3309": {
+    "name": "Digital Signal Processing",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3310": {
+    "name": "Digital Signal Processing Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3400": {
+    "name": "Numerical Techniques Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3403": {
+    "name": "Microprocessor and Interfacing",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 3404": {
+    "name": "Microprocessor and Interfacing Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4109": {
+    "name": "Control System",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4110": {
+    "name": "Control System Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4111": {
+    "name": "Solid State Devices",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4113": {
+    "name": "Semiconductor Processing and Fabrication Technology",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4115": {
+    "name": "Optoelectronics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4117": {
+    "name": "Analog Integrated Circuits",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4119": {
+    "name": "Compound Semiconductor Devices",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4121": {
+    "name": "VLSI Design",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4122": {
+    "name": "VLSI Design Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4123": {
+    "name": "Biomedical Electronics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4124": {
+    "name": "Biomedical Electronics Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4211": {
+    "name": "Transmission and Distribution Systems",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4213": {
+    "name": "Power Plant Engineering",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4215": {
+    "name": "Operation and Control of Power System",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4216": {
+    "name": "Operation and Control of Power System Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4217": {
+    "name": "Power System Protection",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4218": {
+    "name": "Power System Protection Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4219": {
+    "name": "High Voltage Engineering",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4221": {
+    "name": "Advanced Electrical Machines",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4223": {
+    "name": "Renewable Energy",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4225": {
+    "name": "Electrical Measurements",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4226": {
+    "name": "Electrical Measurements Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4261": {
+    "name": "Green Computing",
+    "examDay": "Day 5",
+    "examSlot": "T1",
+    "prerequisites": []
+  },
+  "EEE 4311": {
+    "name": "Microwave Engineering",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4312": {
+    "name": "Microwave Engineering Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4313": {
+    "name": "Optical Fiber Communication",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4315": {
+    "name": "Digital Communication",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4316": {
+    "name": "Digital Communication Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4317": {
+    "name": "Mobile Cellular Communication",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4319": {
+    "name": "Telecommunication Engineering",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4321": {
+    "name": "Antenna and Propagation",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4323": {
+    "name": "Satellite Communication",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4325": {
+    "name": "Multimedia Communication",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4327": {
+    "name": "Advanced DSP and Filter Design",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4329": {
+    "name": "Telecommunication Policy and Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4331": {
+    "name": "Biomedical Engineering",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4333": {
+    "name": "Special Topics on Telecommunication Engineering",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4335": {
+    "name": "Information Theory and Coding",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4337": {
+    "name": "RF Engineering",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4338": {
+    "name": "RF Engineering Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4339": {
+    "name": "Introduction to Software Radios",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4411": {
+    "name": "Computer Architecture",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4413": {
+    "name": "Computer Networks",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4414": {
+    "name": "Computer Networks Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4415": {
+    "name": "Advanced Logic Design",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4417": {
+    "name": "Microprocessor Based System Design",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4418": {
+    "name": "Microprocessor Based System Design Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4419": {
+    "name": "Multimedia Systems Design",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4511": {
+    "name": "Embedded System Design and Architecture",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4512": {
+    "name": "Embedded System Design and Architecture Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4513": {
+    "name": "Real Time Embedded System Design",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4515": {
+    "name": "Industrial Automation and Robotics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4517": {
+    "name": "Real Time Embedded Digital Signal Processing",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4901": {
+    "name": "Capstone Project I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4902": {
+    "name": "Capstone Project II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4903": {
+    "name": "Capstone Project III",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4904": {
+    "name": "Internship",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "EEE 4905": {
+    "name": "Industrial Training",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "ENG 1011": {
+    "name": "English I",
+    "examDay": "Day 1",
+    "examSlot": "T1",
+    "prerequisites": []
+  },
+  "ENG 1013": {
+    "name": "English II",
+    "examDay": "Day 1",
+    "examSlot": "T2",
+    "prerequisites": [
+      "ENG 1011"
+    ]
+  },
+  "FIN 2319": {
+    "name": "Principles of Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 3123": {
+    "name": "Managerial Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 3337": {
+    "name": "Principles of Banking and Insurance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4116": {
+    "name": "Management of Financial Institutions",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4117": {
+    "name": "Corporate Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4218": {
+    "name": "Financial Statements Analysis",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4219": {
+    "name": "Securities Analysis and Portfolio Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4320": {
+    "name": "Capital Investment Decisions",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4321": {
+    "name": "Financial Markets and Institutions",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4322": {
+    "name": "International Financial Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4323": {
+    "name": "Working Capital Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4324": {
+    "name": "Real Estate Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4325": {
+    "name": "Investment Banking and Lease Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4326": {
+    "name": "Development Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4327": {
+    "name": "Monetary Economics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4328": {
+    "name": "Public Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4329": {
+    "name": "Financial Derivatives",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4330": {
+    "name": "Cases in Finance",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4331": {
+    "name": "Financial Modeling",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4332": {
+    "name": "Financial Technology (FinTech)",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4333": {
+    "name": "Financial Analytics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4334": {
+    "name": "Bank Fund Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4335": {
+    "name": "Financial Risk Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4336": {
+    "name": "Entrepreneurial Finance and Venture Capital",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FIN 4337": {
+    "name": "Financial Trading Strategies",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "FLN 1101": {
+    "name": "Introduction to a Foreign Language (Name of the Language)",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "GED 1005": {
+    "name": "AI Literacy and Prompt Engineering",
+    "examDay": "Day 1",
+    "examSlot": "T1",
+    "prerequisites": []
+  },
+  "GED 4000": {
+    "name": "Entrepreneurship and Career",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "IBS 3121": {
+    "name": "International Business",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "IPE 3401": {
+    "name": "Industrial and Operational Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "IPE 4101": {
+    "name": "Industrial Production Engineering",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "LAW 2106": {
+    "name": "Commercial & Industrial Laws",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "LAW 3328": {
+    "name": "Corporate Law & Secretarial Practice",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MAT 1101": {
+    "name": "Calculus I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MAT 1103": {
+    "name": "Calculus II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MAT 2105": {
+    "name": "Linear Algebra and Differential Equations",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MAT 2107": {
+    "name": "Complex Variables, Fourier and Laplace Transforms",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MAT 2109": {
+    "name": "Coordinate Geometry and Vector Analysis",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MATH 1151": {
+    "name": "Fundamental Calculus",
+    "examDay": "Day 2",
+    "examSlot": "T2",
+    "prerequisites": []
+  },
+  "MATH 1153": {
+    "name": "Advanced Calculus",
+    "examDay": "Day 5",
+    "examSlot": "T1",
+    "prerequisites": [
+      "MATH 1151"
+    ]
+  },
+  "MATH 2107": {
+    "name": "Linear Algebra",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": [
+      "MATH 1151"
+    ]
+  },
+  "MATH 2183": {
+    "name": "Calculus and Linear Algebra",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": [
+      "MATH 1151"
+    ]
+  },
+  "MATH 2201": {
+    "name": "Coordinate Geometry and Vector Analysis",
+    "examDay": "Day 5",
+    "examSlot": "T1",
+    "prerequisites": [
+      "MATH 1151"
+    ]
+  },
+  "MATH 2205": {
+    "name": "Probability and Statistics",
+    "examDay": "Day 2",
+    "examSlot": "T3",
+    "prerequisites": [
+      "MATH 1151"
+    ]
+  },
+  "MGT 1307": {
+    "name": "Principles of Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MGT 2208": {
+    "name": "Human Resource Mgt. & Org. Behavior",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MGT 3225": {
+    "name": "E-Business",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MGT 4132": {
+    "name": "Operations Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MGT 4356": {
+    "name": "Strategic Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MIS 2218": {
+    "name": "Advanced Computer Applications in Business",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MIS 2220": {
+    "name": "Fundamentals of Management Information Systems",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MIS 3124": {
+    "name": "Database Management",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MIS 3231": {
+    "name": "Programming Language Foundations",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MKT 2320": {
+    "name": "Introduction to Marketing",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "MKT 4313": {
+    "name": "Digital Marketing",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "PHY 1101": {
+    "name": "Physics I",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "PHY 1103": {
+    "name": "Physics II",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "PHY 1104": {
+    "name": "Physics Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "PHY 2105": {
+    "name": "Physics",
+    "examDay": "Day 7",
+    "examSlot": "T3",
+    "prerequisites": []
+  },
+  "PHY 2106": {
+    "name": "Physics Laboratory",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "PMG 4101": {
+    "name": "Project Management",
+    "examDay": "Day 3",
+    "examSlot": "T2",
+    "prerequisites": [
+      "CSE 3411"
+    ]
+  },
+  "PSY 2101": {
+    "name": "Psychology",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "QNT 1104": {
+    "name": "Basic Mathematics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "QNT 1202": {
+    "name": "Basic Statistics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "QNT 2105": {
+    "name": "Mathematics for Business Decision",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "QNT 3307": {
+    "name": "Applied Business Statistics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "SOC 1105": {
+    "name": "Sociology and Psychology",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "SOC 2101": {
+    "name": "Society, Environment and Engineering Ethics",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": []
+  },
+  "SOC 2102": {
+    "name": "Society, Environment and Computing Ethics",
+    "examDay": "Day 1",
+    "examSlot": "T3",
+    "prerequisites": []
+  },
+  "SOC 3101": {
+    "name": "Society, Environment and Engineering Ethics",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "SOC 4101": {
+    "name": "Introduction to Sociology",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "SOC 4301": {
+    "name": "Introduction to Anthropology",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "SWL 4101": {
+    "name": "Software and Law",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  },
+  "TEC 2499": {
+    "name": "Technology Entrepreneurship",
+    "examDay": "Day 3",
+    "examSlot": "T2",
+    "prerequisites": []
+  },
+  "URC 1101": {
+    "name": "Life Skills for Success",
+    "examDay": "",
+    "examSlot": "",
+    "prerequisites": []
+  }
 }
