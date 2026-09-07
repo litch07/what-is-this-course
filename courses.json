@@ -381,8 +381,8 @@
   },
   "CSE 3715": {
     "name": "Data Communication",
-    "examDay": "",
-    "examSlot": "",
+    "examDay": "Day 6",
+    "examSlot": "T3",
     "prerequisites": []
   },
   "CSE 3811": {
@@ -742,7 +742,7 @@
   },
   "DS 3120": {
     "name": "Technical Report Writing and Presentation",
-    "examDay": "Day 5",
+    "examDay": "Day 6",
     "examSlot": "T3",
     "prerequisites": [
       "MINIMUM COMPLETED CREDIT 55"
@@ -1782,8 +1782,8 @@
   },
   "IPE 3401": {
     "name": "Industrial and Operational Management",
-    "examDay": "",
-    "examSlot": "",
+    "examDay": "Day 1",
+    "examSlot": "T1",
     "prerequisites": []
   },
   "IPE 4101": {
